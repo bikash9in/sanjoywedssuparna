@@ -1,0 +1,4 @@
+# Wedding invitation
+# Allow all search engines, AI agents and social/WhatsApp preview fetchers.
+User-agent: *
+Allow: /
